@@ -1,0 +1,2 @@
+The data can be found in " Automatic interpretation of magnetic data based on Euler deconvolution with unprescribed structural index"
+Thanks for the author for providing the data.
